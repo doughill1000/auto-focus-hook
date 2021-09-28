@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/auto-focus-hooks/static/js/main.13f3e007.chunk.js",
-    "main.js.map": "/auto-focus-hooks/static/js/main.13f3e007.chunk.js.map",
-    "runtime-main.js": "/auto-focus-hooks/static/js/runtime-main.39bc2d13.js",
-    "runtime-main.js.map": "/auto-focus-hooks/static/js/runtime-main.39bc2d13.js.map",
-    "static/js/2.07af907f.chunk.js": "/auto-focus-hooks/static/js/2.07af907f.chunk.js",
-    "static/js/2.07af907f.chunk.js.map": "/auto-focus-hooks/static/js/2.07af907f.chunk.js.map",
-    "index.html": "/auto-focus-hooks/index.html",
-    "static/js/2.07af907f.chunk.js.LICENSE.txt": "/auto-focus-hooks/static/js/2.07af907f.chunk.js.LICENSE.txt"
+    "main.js": "/auto-focus-hook/static/js/main.13f3e007.chunk.js",
+    "main.js.map": "/auto-focus-hook/static/js/main.13f3e007.chunk.js.map",
+    "runtime-main.js": "/auto-focus-hook/static/js/runtime-main.d1285538.js",
+    "runtime-main.js.map": "/auto-focus-hook/static/js/runtime-main.d1285538.js.map",
+    "static/js/2.07af907f.chunk.js": "/auto-focus-hook/static/js/2.07af907f.chunk.js",
+    "static/js/2.07af907f.chunk.js.map": "/auto-focus-hook/static/js/2.07af907f.chunk.js.map",
+    "index.html": "/auto-focus-hook/index.html",
+    "static/js/2.07af907f.chunk.js.LICENSE.txt": "/auto-focus-hook/static/js/2.07af907f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.39bc2d13.js",
+    "static/js/runtime-main.d1285538.js",
     "static/js/2.07af907f.chunk.js",
     "static/js/main.13f3e007.chunk.js"
   ]
