@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import useAutoFocus from './useAutoFocus';
 
 function App() {
   const [value, setValue] = useState('defaultValue');
